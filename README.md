@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌌 Custom Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00c2ff&height=220&section=header&text=Muhammad%20Shuraim&fontSize=55&fontColor=00c2ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Backend%20%7C%20AI%20Applications&descAlignY=60&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00c2ff&height=220&section=header&text=Muhammad%20Shuraim&fontSize=55&fontColor=00c2ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20%26%20Backend%20%7C%20AI%20Applications&descAlignY=60&descColor=8b949e&animation=fadeIn"/>
 
 <!-- Profile Views + Follow -->
 <img src="https://komarev.com/ghpvc/?username=MuhammadShuraim3637&label=Profile+Views&color=00c2ff&style=for-the-badge"/>
@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Full+Stack+Developer;⚡+Next.js+%7C+FastAPI+%7C+MongoDB;🤖+Building+AI-Powered+Applications;🌱+Always+Learning+New+Technologies;✨+Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Full+Stack+Developer;🎨+Next.js+%7C+React+%7C+Tailwind+CSS;⚡+FastAPI+%7C+MongoDB+%7C+PostgreSQL;🤖+Building+AI-Powered+Applications;✨+Turning+Ideas+Into+Reality" />
 
 </div>
 
@@ -32,11 +32,11 @@
 
 </div>
 
-> **⚠️ Setup Note:** To activate the snake, go to your profile repo → **Actions** tab → Search for *"Generate Snake"* workflow (or create it using the [snake workflow guide](https://github.com/Platane/snk)). It auto-runs daily and commits the SVG.
+> **⚠️ Setup Note:** To activate the snake, go to your profile repo → **Actions** tab → create it using the [snake workflow guide](https://github.com/Platane/snk). It auto-runs daily and commits the SVG.
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 💫 About Me
 
@@ -49,10 +49,10 @@ education:
   cgpa: 3.73 / 4.0
 
 role: Full Stack Developer
-focus:
-  - Backend Engineering
+passion:
+  - Beautiful UI & smooth UX
+  - Scalable Backend Systems
   - AI-Powered Applications
-  - Modern Web Technologies
 
 currently_exploring:
   - Advanced FastAPI Patterns
@@ -109,7 +109,7 @@ principles:
 | Topic | Progress | Status |
 |-------|----------|--------|
 | Advanced FastAPI | ███████░░░ 70% | 🔥 Active |
-| Production Architecture | █████░░░░░ 50% | 📖 In Progress |
+| Next.js App Router | ████████░░ 80% | 🎨 Active |
 | Docker & DevOps | ████░░░░░░ 40% | 🌱 Exploring |
 | LLM Integration | ██████░░░░ 60% | 🤖 Active |
 | System Design | ███░░░░░░░ 30% | 📐 Started |
@@ -124,24 +124,24 @@ principles:
 goals_2026 = {
     "🚀 Launch": [
         "2 production SaaS products",
-        "Open-source FastAPI boilerplate",
+        "Open-source Next.js + FastAPI starter",
     ],
     "📦 Build": [
         "AI-powered portfolio project",
-        "Full REST + WebSocket API system",
+        "Full-stack app with slick UI + solid API",
         "Dockerized microservices app",
     ],
     "📖 Learn": [
         "AWS / Cloud deployment",
         "Redis & caching strategies",
-        "CI/CD pipelines",
+        "Framer Motion & advanced animations",
     ],
     "🤝 Contribute": [
         "5+ open source PRs",
         "Write technical blog posts",
     ],
     "💼 Career": [
-        "Land a full-time backend role",
+        "Land a full-stack role",
         "Grow GitHub to 100+ stars",
     ],
 }
@@ -179,7 +179,7 @@ Stack: Next.js • MongoDB • NextAuth.js
 
 ✅ Google OAuth Authentication  
 ✅ Full CRUD operations  
-✅ Real-time updates  
+✅ Clean, minimal UI  
 
 ---
 
@@ -214,18 +214,6 @@ Stack: FastAPI • PostgreSQL • Pydantic • Alembic
 │  ✔  API integration & collaborative Git workflows           │
 └─────────────────────────────────────────────────────────────┘
 ```
-
-</div>
-
----
-
-## 🏅 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MuhammadShuraim?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/MuhammadShuraim/)
-
-> *Replace `MuhammadShuraim` with your actual LeetCode username above!*
 
 </div>
 
@@ -302,15 +290,11 @@ while not success:
 </a>
 &nbsp;
 <a href="https://github.com/MuhammadShuraim3637">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&border_color=00c2ff"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:shuraimbutt4@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://buymeacoffee.com/muhammadshuraim">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 <br/><br/>
