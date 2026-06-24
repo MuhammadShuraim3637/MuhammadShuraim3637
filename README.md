@@ -1,38 +1,25 @@
 <div align="center">
 
 <!-- 🌌 Custom Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00c2ff&height=220&section=header&text=Muhammad%20Shuraim&fontSize=55&fontColor=00c2ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20%26%20Backend%20%7C%20AI%20Applications&descAlignY=60&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:050d1a,75:0d1117,100:00c2ff&height=230&section=header&text=Muhammad%20Shuraim&fontSize=58&fontColor=00c2ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20%26%20Backend%20%7C%20AI%20Applications&descAlignY=60&descColor=8b949e&animation=fadeIn"/>
 
-<!-- Profile Views + Follow -->
+<br/>
+
+<!-- Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=MuhammadShuraim3637&label=Profile+Views&color=00c2ff&style=for-the-badge"/>
 &nbsp;
 <a href="https://github.com/MuhammadShuraim3637?tab=followers">
   <img src="https://img.shields.io/github/followers/MuhammadShuraim3637?label=Followers&style=for-the-badge&color=00c2ff&labelColor=0d1117"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-00c2ff?style=for-the-badge&logo=briefcase&logoColor=black"/>
 
 <br/><br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=750&lines=🚀+Full+Stack+Developer;🎨+Next.js+%7C+React+%7C+Tailwind+CSS;⚡+FastAPI+%7C+MongoDB+%7C+PostgreSQL;🤖+Building+AI-Powered+Applications;✨+Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=780&lines=🚀+Full+Stack+Developer;🎨+Next.js+%7C+React+%7C+Tailwind+CSS;⚡+FastAPI+%7C+MongoDB+%7C+PostgreSQL;🤖+Building+AI-Powered+Applications;✨+Turning+Ideas+Into+Reality" />
 
 </div>
-
----
-
-<!-- 🐍 Snake Contribution Animation -->
-<div align="center">
-
-### 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadShuraim3637/MuhammadShuraim3637/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadShuraim3637/MuhammadShuraim3637/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MuhammadShuraim3637/MuhammadShuraim3637/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
-> **⚠️ Setup Note:** To activate the snake, go to your profile repo → **Actions** tab → create it using the [snake workflow guide](https://github.com/Platane/snk). It auto-runs daily and commits the SVG.
 
 ---
 
@@ -50,9 +37,9 @@ education:
 
 role: Full Stack Developer
 passion:
-  - Beautiful UI & smooth UX
-  - Scalable Backend Systems
-  - AI-Powered Applications
+  - Beautiful UI & smooth UX  🎨
+  - Scalable Backend Systems  ⚡
+  - AI-Powered Applications   🤖
 
 currently_exploring:
   - Advanced FastAPI Patterns
@@ -124,24 +111,24 @@ principles:
 goals_2026 = {
     "🚀 Launch": [
         "2 production SaaS products",
-        "Open-source Next.js + FastAPI starter",
+        "Open-source Next.js + FastAPI starter kit",
     ],
     "📦 Build": [
-        "AI-powered portfolio project",
-        "Full-stack app with slick UI + solid API",
+        "AI-powered portfolio with slick animations",
+        "Full-stack app: beautiful UI + solid API",
         "Dockerized microservices app",
     ],
     "📖 Learn": [
         "AWS / Cloud deployment",
         "Redis & caching strategies",
-        "Framer Motion & advanced animations",
+        "Framer Motion & advanced UI animations",
     ],
     "🤝 Contribute": [
         "5+ open source PRs",
         "Write technical blog posts",
     ],
     "💼 Career": [
-        "Land a full-stack role",
+        "Land a full-stack developer role",
         "Grow GitHub to 100+ stars",
     ],
 }
@@ -157,7 +144,7 @@ goals_2026 = {
 > **Full-stack AI-powered blog generation platform**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00c2ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-blog-studio-wequ-c8pigkukt-shuraim.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShuraim3637)
+[![GitHub](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShuraim3637)
 
 ```
 Stack: Next.js • FastAPI • MongoDB • JWT • Gemini API • Vercel
@@ -171,7 +158,7 @@ Stack: Next.js • FastAPI • MongoDB • JWT • Gemini API • Vercel
 ---
 
 ### 📝 Notes App
-> **Secure personal note-taking with OAuth**
+> **Secure personal note-taking with Google OAuth**
 
 ```
 Stack: Next.js • MongoDB • NextAuth.js
@@ -179,7 +166,7 @@ Stack: Next.js • MongoDB • NextAuth.js
 
 ✅ Google OAuth Authentication  
 ✅ Full CRUD operations  
-✅ Clean, minimal UI  
+✅ Clean minimal UI  
 
 ---
 
@@ -267,15 +254,16 @@ Stack: FastAPI • PostgreSQL • Pydantic • Alembic
 ```python
 while not success:
     try_again()
-    
+
 # I debug at 2 AM and ship at 3 AM 🌙
-# My keyboard has a "Ctrl+Z" worn out key 😅
-# I name my variables 'x' and then regret it 30 mins later 💀
+# My keyboard has "Ctrl+Z" worn out 😅
+# I name variables 'x' then regret it 30 mins later 💀
 # Stack Overflow is my second home 🏠
+# Both Frontend & Backend hit different 🔥
 ```
 
-> 🎮 **Fun Fact:** I once spent 3 hours debugging only to find a missing semicolon.  
-> Then I added comments so future-me wouldn't repeat it. He still did. 🤦‍♂️
+> 🎮 **Fun Fact:** I spent 3 hours debugging only to find a missing semicolon.  
+> Added comments so future-me wouldn't repeat it. He still did. 🤦‍♂️
 
 </div>
 
@@ -307,16 +295,12 @@ while not success:
 
 <div align="center">
 
-<!-- Islamic Quote Footer -->
 ### 🕌 *"وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا"*
 **"And whoever fears Allah — He will make for him a way out."**
 *— Surah At-Talaq [65:2]*
 
 <br/>
 
----
-
-<!-- Futuristic Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:0d1117&height=120&section=footer&text=⭐+Always+Learning+•+Always+Building+•+Always+Improving+🚀&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
